@@ -8,4 +8,4 @@
     - mate / mate_writing.html 덕메구하기 양식에 맞춰 글 작성 
     - mate / mate_insert.php 디비에 저장
     - mate / mate.php 등록된 글 리스트 
-      - 필터를 통한 원하는 게시글 검색
+      필터를 통한 원하는 게시글 검색
