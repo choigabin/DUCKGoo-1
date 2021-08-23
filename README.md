@@ -1,7 +1,9 @@
 # DUCKGoo
 2021 New Media IT Show 졸업 전시 출품작
 
-덕질을 더욱 이롭게 만들어줄 채팅 웹 '덕구'
+덕질을 더욱 이롭게 만들어줄 채팅 웹 '덕구' 🎇
+
+🎈 호스팅 링크 : https://duckgoo.emirim.kr/
 
 - 덕질 메이트 구하기
     - mate_writing.html -> mate_insert.php -> mate.php -> mate_detail.php
